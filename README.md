@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##I'm a begginer Frontend Developer from Ukraine
+## I'm Yuliia Zherebetska and I`m a Frontend Developer.
 
 ## :EDUCATION:
 
